@@ -30,10 +30,9 @@
 	- You might _also_ be able to login to your Gale specific account using this above URL...
 	- **If you are prompted to enter your Login ID enter your library Card Number**
 
-### (1)![[Pasted image 20240817145926.png]]
-### (2)![[Pasted image 20240817145659.png]]
-### (3)![[Pasted image 20240817145426.png]]
-
+### (1)![Pasted image 20240817145926_U1](https://github.com/user-attachments/assets/ecd35717-bddf-421c-aa44-9fec3c1aa2c2)
+### (2)![Pasted image 20240817145659_U2](https://github.com/user-attachments/assets/916882ee-b840-4e72-a122-d43671d9ac9c)
+### (3)![Pasted image 20240817145426_U3](https://github.com/user-attachments/assets/fcf97206-3a6e-4a62-addd-e06a9aeb1372)
 ### (4)
-![[Pasted image 20240820015303.png]]
-### (5)![[Pasted image 20240817150015.png]]
+![Pasted image 20240820015303](https://github.com/user-attachments/assets/802bb7ce-db2c-4294-bb95-c1bc6d5a9acf)
+### (5)![Pasted image 20240817150015_U4](https://github.com/user-attachments/assets/f14d60da-128a-4bfa-92e0-2791c75b0123)

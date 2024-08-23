@@ -10,7 +10,8 @@
 	- You can [start the sign up process online here](https://nolalibrary.org/new-to-the-library-need-a-card/) (1) if you wish
 	- You can get your "short term" library card online this way but you will need to visit a library within 30 days to get your permanent Library Card Number
 		- Bring your ID!
-		- If your address does not match your ID you will need to provide some other proof (a bill, a lease, a paystub... something with your name and local address together)
+		- If your ID address does not match the address you used to sign up online (if you did that...)
+		- ...you will need to provide some other proof (a bill, a lease, a paystub... something with your name and local address together)
 	- _Once you have your Library Card and Number..._
 
 - **Visit** [NolaLibrary All-E-Resources](https://nolalibrary.org/books-movies-more/all-e-resources/) (2) for ALL your new e-resources
